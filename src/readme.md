@@ -27,6 +27,3 @@ To run the code:
 3. Compile and run the `Xcercise` class.
 4. View the output in the console, which should display the name, age, and sound of the lion.
 
-### Note
-
-Make sure to replace "yourusername" and "yourrepository" with your actual GitHub username and repository name in the repository link provided above.
